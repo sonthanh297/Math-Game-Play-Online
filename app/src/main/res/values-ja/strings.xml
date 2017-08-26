@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">数学ゲーム</string>
+    <string name="start_game">ゲームをスタート</string>
+    <string name="high_score">ハイスコア</string>
+    <string name="multiplayer">マルチプレイヤー</string>
+    <string name="false_name">偽</string>
+    <string name="true_name">真</string>
+    <string name="cancel">キャンセル</string>
+    <string name="save">セーブ</string>
+    <string name="endgame">コンプリート</string>
+    <string name="nameplayer">名 </string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login.error.signin">ログインできません %s</string>
+    <string name="login.error.signup">新しいユーザーを登録できません %s</string>
+    <string name="contactlist.menu.action.signoff">サインオフ</string>
+    <string name="contactlist.title">友達リスト</string>
+    <string name="addcontact.title">友人を追加する</string>
+    <string name="addcontact.add">受け入れる</string>
+    <string name="addcontact.cancel">キャンセル</string>
+    <string name="addcontact.contactadded">友達を追加しました</string>
+    <string name="addcontact.error">存在しないユーザーを追加できません</string>
+    <string name="log_out">サインオフ</string>
+    <string name="playerConnected">プレーヤー接続</string>
+    <string name="choosePlayer">%s あなたと遊びたい</string>
+    <string name="connecting">接続する...</string>
+    <string name="cant_connect">プレーヤーに接続できません</string>
+    <string name="yes">はい</string>
+    <string name="no">NO</string>
+    <string name="deleteUser">このユーザーを削除してもよろしいですか？ </string>
+    <string name="delete">DELETE</string>
+    <string name="please_signup">アカウントをお持ちでない場合。 サインアップを押してください </string>
+    <string name="login">ログイン</string>
+    <string name="signup">サインアップ</string>
+    <string name="roundPlay">Round %d</string>
+    <string name="compleRound">You had been completed %d /20 round. Try again  </string>
+    <string name="yourScore">Your Score</string>
+    <string name="playerScore">Player Score</string>
+    <string name="win">あなたは勝つ</string>
+    <string name="lose">あなたは失う</string>
+    <string name="timeup">タイムアップ。 今すぐプレイヤーに接続できません </string>
+    <string name="easy">EASY</string>
+    <string name="medium">MEDIUM</string>
+    <string name="hard">HARD</string>
+    <string name="option">オプション</string>
+    <string name="networktitle">インターネットに接続できません</string>
+    <string name="networkMessage">マルチプレイヤーゲームをするにはインターネットに接続してください</string>
+    <string name="randomPlay">Randome Play </string>
+
+
+
+
+    <string name="ad_unit_banner">ca-app-pub-9393627589702210/7293344286</string>
+    <string name="ad_unit_full">ca-app-pub-9393627589702210/8770077482</string>
+    <string name="web_client_id">829350904917-aavv35chbjt27g7jd8o5g0filaq6f7vu.apps.googleusercontent.com</string>
+</resources>

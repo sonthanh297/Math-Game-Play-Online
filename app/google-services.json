@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "829350904917",
+    "firebase_url": "https://math-game-challenge.firebaseio.com",
+    "project_id": "math-game-challenge",
+    "storage_bucket": "math-game-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829350904917:android:3b7cec2bf2c99c8d",
+        "android_client_info": {
+          "package_name": "pvsasoftware.mathgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829350904917-kq1bjo4pm9pjebacfdbgelah7kgpbkch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pvsasoftware.mathgames",
+            "certificate_hash": "19dd2eca4099c1068f4c2f8fcf608b71e54b93ce"
+          }
+        },
+        {
+          "client_id": "829350904917-v3c5gra2l2i39rjgu7pslp0q55k2cqc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pvsasoftware.mathgames",
+            "certificate_hash": "32843947b128581c0b98f2d6012b73f4bf179fc5"
+          }
+        },
+        {
+          "client_id": "829350904917-dq9robcsadpj50rk3ub2erguva7mi4es.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pvsasoftware.mathgames",
+            "certificate_hash": "84f77ec9777381eb06a7559ad66219383b301df2"
+          }
+        },
+        {
+          "client_id": "829350904917-aavv35chbjt27g7jd8o5g0filaq6f7vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjrForjKTO9x5jGi9rdolqqbAXetZ2Nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829350904917-aavv35chbjt27g7jd8o5g0filaq6f7vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

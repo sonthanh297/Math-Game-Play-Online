@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/DarkGreen">
+
+    <TextView
+        android:text="@string/endgame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:textColor="@color/Tan3"
+        android:textStyle="bold"
+        android:textSize="@dimen/textSize"
+        android:textAlignment="center" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEndRound"
+        android:textColor="@color/Tan3"
+        android:layout_margin="10dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_content"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:textColor="@color/falsecolor1"
+        android:textSize="@dimen/textSizeAnswer"
+        android:textAlignment="center"
+        android:textStyle="normal|bold" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:weightSum="1">
+
+        <TextView
+            android:text="@string/nameplayer"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:id="@+id/textView3"
+            android:layout_margin="10dp"
+            android:textColor="@color/Tan3"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:layout_width="162dp"
+            android:layout_height="wrap_content"
+            android:inputType="textPersonName"
+            android:ems="10"
+            android:id="@+id/et_name"
+            android:textColorLink="?android:attr/colorMultiSelectHighlight"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/Tan3"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0.47" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="@string/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_cancel"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:background="@drawable/num_back"
+            android:textColor="@color/Tan3"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSizeAnswer" />
+
+        <Button
+            android:text="@string/save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_save"
+            android:layout_weight="1"
+            android:layout_margin="10dp"
+            android:background="@drawable/num_back"
+            android:textColor="@color/Tan3"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSizeAnswer" />
+    </LinearLayout>
+</LinearLayout>

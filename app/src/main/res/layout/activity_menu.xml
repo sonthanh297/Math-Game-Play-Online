@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="@string/multiplayer"
+        android:background="@drawable/num_back"
+        android:layout_height="@dimen/buttonHigh"
+        android:layout_width="170dp"
+        android:textColor="@color/Tan3"
+        android:layout_marginTop="28dp"
+        android:id="@+id/bt_multiplayer"
+        android:layout_below="@+id/bt_startgame"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="@string/high_score"
+        android:layout_marginTop="28dp"
+        android:id="@+id/bt_highscore"
+        android:background="@drawable/num_back"
+        android:layout_height="@dimen/buttonHigh"
+        android:layout_width="170dp"
+        android:textColor="@color/Tan3"
+        android:layout_below="@+id/bt_multiplayer"
+        android:layout_alignLeft="@+id/bt_option"
+        android:layout_alignStart="@+id/bt_option" />
+
+    <Button
+        android:text="@string/option"
+        android:background="@drawable/num_back"
+        android:layout_height="@dimen/buttonHigh"
+        android:layout_width="170dp"
+        android:textColor="@color/Tan3"
+        android:layout_marginTop="28dp"
+        android:id="@+id/bt_option"
+        android:layout_below="@+id/bt_highscore"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="@string/start_game"
+        android:id="@+id/bt_startgame"
+        android:layout_marginTop="155dp"
+        android:background="@drawable/num_back"
+        android:layout_height="@dimen/buttonHigh"
+        android:layout_width="170dp"
+        android:textColor="@color/Tan3"
+        android:soundEffectsEnabled="false"
+        android:layout_alignParentTop="true"
+        android:layout_alignLeft="@+id/bt_multiplayer"
+        android:layout_alignStart="@+id/bt_multiplayer" />
+
+</RelativeLayout>

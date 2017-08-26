@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+app:layout_behavior="@string/appbar_scrolling_view_behavior"
+android:background="@color/LightSteelBlue">
+
+<ImageView
+    app:srcCompat="@drawable/star"
+    android:id="@+id/img_multiplayer_avatar"
+    android:layout_width="48dp"
+    android:layout_height="48dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginTop="10dp" />
+
+<TextView
+    android:text="Name"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/tv_multiplayer_name"
+    android:layout_alignParentTop="true"
+    android:layout_toRightOf="@+id/img_multiplayer_avatar"
+    android:layout_toEndOf="@+id/img_multiplayer_avatar"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:gravity="center"
+    android:textColor="@color/Tan3"
+    android:textStyle="bold"
+    android:layout_marginTop="10dp" />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceMedium"
+    android:text="Medium Text"
+    android:id="@+id/txtStatus"
+    android:layout_below="@+id/tv_multiplayer_name"
+    android:layout_alignLeft="@+id/tv_multiplayer_name"
+    android:layout_alignStart="@+id/tv_multiplayer_name"
+    android:layout_marginBottom="10dp" />
+
+</RelativeLayout>

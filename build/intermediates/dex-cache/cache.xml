@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\8286afc8de2e3b724955f1553154f574d754988c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_16789e6d77e4c54fafd37c2e020a6e1dd3b732b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\39fd96afc9911a1476f3c2e25835b8a6e2cb1228\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d5b965a39b56fadc9bc2625a31e2b5337a63c99\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\c7d2f695d9ed8a85bb9e7b485f9268d876a3156b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_2108209e7d3386321b2098d270ef3bcc3ebab2df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\support-annotations-25.1.0_2624dbb89c8a8264995c308cc49532b4825f0668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\16337dc626923aeaf71fbefb1e1eff82482262a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_e371fc40798753a5f890308903f3a36b65917186.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\f9fe936031f42e8de9e0e1155c5b333873f4bd3d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aea4c7ced639ef24f88c4535162f202b5333282b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\590b2355b193e40b873debb3283a8cabb0c5e5e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_440d5d91a9612b47e4a27f9ec768bd411eabdfb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\826fc3625388057841cdb9992a071e05dcc232a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_c52c78c3f9020f317ad0dfcfff8c3fc167821370.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\5287d7e3285be666bf793d2ee13c47255ae2279c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7e240ffaa1a009da89d3f29bfe35276b8b3146c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\4ee33c540d86961eb6439a1a0f45f868eea4abbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_1d1e9fa3995939391d4b311c3c2a08859fc9b9c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\37b112abc6c0f8c3432e16c84a019f7f49cc8dd0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18d9d5b5ec906a7ac7815d1bc5a75148eca3d1a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\23c64c8a532e8b938a8cd6d8723cb82f1e211997\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_072754ff8a8b8dab0f689e6e1b0620eaf5809489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\34e75d0fa5a0ff1c029c5cec05810933c7b7c232\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_fa34604479838d26b4e74deface3c5ca2ccd4736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\6357f7fe45018fb15f3cf56938ea9db43786e464\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_85316e0df79bbaa0220d3df0da908690b8325991.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\b8391915ccb6b57f01f0aef8387586102ff61fc6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6a568f8ef7f865ca63a141ec7beb685586cfa863\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\7984d708225b92252623bb63881df8f0fa6f6718\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c73d4a9b2093d63b3780c1e8e781615ad5d67a56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="87a7811008ea0f96e8ed76a20b5d54625fd8f72e">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fc5c262c26fe192227e99ec25a6408213e517dd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\54e93e780862c27518c33a51def72b62a6926643\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_8afb15e1cdf2aab4cd1706186e57369d8bde28e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\2aa98c22fb65e6d08b89efadb685090ab94f7498\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_26f6ecf504806f906f569df27bf436a66995d8fa.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\004b40fff1b4d84c59b10cc999e6933bc413c249\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6765fe9180e883064a1abba8206cf391bc4106dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\89e83924a195d5a5efe6770e494abd7391cf82dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_49429d2e2ef6ee1f5417d7a6675e20833e2553ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\f1ae6268bce878fa65df09366a24664104028791\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_721d264cfd384c96f5bfd83c1932f0f45587b508.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\09eab0d470c6cc4e2ba2ad05b0c64a7a99c9f75c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83c20174848f3bac2fbf4fe4ae8f58e8faa2ab55\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\6e37a57b60f5fc82df6d0840a6f1160938f20c3f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_80b4037dd56e83404746e26d119b8453fb86ddeb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\1707e6f01917d575897a46cd07204206072ab049\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bf1cb96ee795160e7e50402c92dafc9410c02f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\97fd969a2cb3d3508b718767360ce1bb216e2c10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_2d49e64fb1002d63a9135608dc17754f0375520f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\3ceb54865a56d15b5d83e2e0ebc869dea877956e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_bcea07d8f8b257368cb5cd48e838f5e8f68c6907.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\8063e065d37f9e24a7a1661ce03bc56553121d90\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f39a0e1db86cb0a096391f948f88573f1426c12f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\46d740ad5b13764aa026eb4adca1c388cc0274e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31734fbc8639018f1426936b84418df9df1be5cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\f9fe936031f42e8de9e0e1155c5b333873f4bd3d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_aea4c7ced639ef24f88c4535162f202b5333282b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\4aa2cd330ad1b1e256da079ae6d05352e141330a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_ab66b0cba391f1c25e0e38de6c0006b002d60ffb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_2624dbb89c8a8264995c308cc49532b4825f0668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\8286afc8de2e3b724955f1553154f574d754988c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16789e6d77e4c54fafd37c2e020a6e1dd3b732b8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\c7d2f695d9ed8a85bb9e7b485f9268d876a3156b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2108209e7d3386321b2098d270ef3bcc3ebab2df\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\5287d7e3285be666bf793d2ee13c47255ae2279c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_7e240ffaa1a009da89d3f29bfe35276b8b3146c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\590b2355b193e40b873debb3283a8cabb0c5e5e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_440d5d91a9612b47e4a27f9ec768bd411eabdfb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\39fd96afc9911a1476f3c2e25835b8a6e2cb1228\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_7d5b965a39b56fadc9bc2625a31e2b5337a63c99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\37b112abc6c0f8c3432e16c84a019f7f49cc8dd0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_18d9d5b5ec906a7ac7815d1bc5a75148eca3d1a4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_85343c6c7f7c3704ac15aaea48a85f94e2f98549\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\4ee33c540d86961eb6439a1a0f45f868eea4abbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d1e9fa3995939391d4b311c3c2a08859fc9b9c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\826fc3625388057841cdb9992a071e05dcc232a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c52c78c3f9020f317ad0dfcfff8c3fc167821370\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\23c64c8a532e8b938a8cd6d8723cb82f1e211997\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_072754ff8a8b8dab0f689e6e1b0620eaf5809489\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\b8391915ccb6b57f01f0aef8387586102ff61fc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_6a568f8ef7f865ca63a141ec7beb685586cfa863.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\16337dc626923aeaf71fbefb1e1eff82482262a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e371fc40798753a5f890308903f3a36b65917186\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\6357f7fe45018fb15f3cf56938ea9db43786e464\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_85316e0df79bbaa0220d3df0da908690b8325991\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\7984d708225b92252623bb63881df8f0fa6f6718\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_c73d4a9b2093d63b3780c1e8e781615ad5d67a56.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\54e93e780862c27518c33a51def72b62a6926643\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8afb15e1cdf2aab4cd1706186e57369d8bde28e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\f1ae6268bce878fa65df09366a24664104028791\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_721d264cfd384c96f5bfd83c1932f0f45587b508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\34e75d0fa5a0ff1c029c5cec05810933c7b7c232\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fa34604479838d26b4e74deface3c5ca2ccd4736\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\004b40fff1b4d84c59b10cc999e6933bc413c249\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_6765fe9180e883064a1abba8206cf391bc4106dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\89e83924a195d5a5efe6770e494abd7391cf82dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_49429d2e2ef6ee1f5417d7a6675e20833e2553ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\09eab0d470c6cc4e2ba2ad05b0c64a7a99c9f75c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_83c20174848f3bac2fbf4fe4ae8f58e8faa2ab55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\6e37a57b60f5fc82df6d0840a6f1160938f20c3f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80b4037dd56e83404746e26d119b8453fb86ddeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\97fd969a2cb3d3508b718767360ce1bb216e2c10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2d49e64fb1002d63a9135608dc17754f0375520f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\46d740ad5b13764aa026eb4adca1c388cc0274e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_31734fbc8639018f1426936b84418df9df1be5cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\8063e065d37f9e24a7a1661ce03bc56553121d90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_f39a0e1db86cb0a096391f948f88573f1426c12f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PhiSon\.android\build-cache\1707e6f01917d575897a46cd07204206072ab049\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\pre-dexed\release\classes_3bf1cb96ee795160e7e50402c92dafc9410c02f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\3ceb54865a56d15b5d83e2e0ebc869dea877956e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bcea07d8f8b257368cb5cd48e838f5e8f68c6907\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\2aa98c22fb65e6d08b89efadb685090ab94f7498\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_26f6ecf504806f906f569df27bf436a66995d8fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PhiSon\.android\build-cache\4aa2cd330ad1b1e256da079ae6d05352e141330a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\PhiSon\Desktop\AppSumit\New folder (2)\MathGames\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ab66b0cba391f1c25e0e38de6c0006b002d60ffb\classes.dex" />
+    </item>
+
+</items>

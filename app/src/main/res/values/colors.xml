@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="playBackground">#33ccff</color>
+    <color name="Tan3">#CD853F</color>
+    <color name="Wheat1">#FFE7BA</color>
+    <color name="Gold">#eec900</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="Gray">#9c9c9c</color>
+    <color name="YellowGreen">#9ACD32</color>
+    <color name="Green4">#008B00</color>
+    <color name="faslecolor2">#FF4040</color>
+    <color name="falsecolor1">#CD2626</color>
+</resources>

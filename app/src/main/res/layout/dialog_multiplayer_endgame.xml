@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="@string/endgame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mtv_complete"
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:textColor="@color/Tan3"
+        android:textStyle="bold"
+        android:textSize="@dimen/textSize"
+        android:textAlignment="center" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/yourScore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mtv1"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textColor="@color/YellowGreen"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSizeAnswer"
+            android:textAlignment="center"
+            android:layout_weight="1" />
+
+        <TextView
+            android:text="@string/playerScore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mtv2"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textColor="@color/YellowGreen"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSizeAnswer"
+            android:textAlignment="center"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:text="@string/endgame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mtv_yourScore"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textColor="@color/falsecolor1"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSize"
+            android:textAlignment="center"
+            android:layout_weight="1" />
+
+        <TextView
+            android:text="@string/endgame"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/mtv_playerScore"
+            android:layout_margin="10dp"
+            android:padding="10dp"
+            android:textColor="@color/falsecolor1"
+            android:textStyle="bold"
+            android:textSize="@dimen/textSize"
+            android:textAlignment="center"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <Button
+        android:text="@string/cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mtv_cancel"
+        android:layout_margin="40dp"
+        android:background="@drawable/answer_back2" />
+</LinearLayout>

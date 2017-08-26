@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_back">
+
+    <Button
+        android:text="@string/easy"
+        android:id="@+id/bt_easy"
+        android:layout_marginTop="153dp"
+        android:background="@drawable/correct_back"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_height="70dp"
+        android:layout_width="170dp"
+        android:textColor="@color/common_google_signin_btn_text_light_focused"
+        android:soundEffectsEnabled="false" />
+
+    <Button
+        android:text="@string/medium"
+        android:id="@+id/bt_medium"
+        android:background="@drawable/answer_back"
+        android:layout_height="70dp"
+        android:layout_width="170dp"
+        android:textColor="@color/common_google_signin_btn_text_light_focused"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:text="@string/hard"
+        android:background="@drawable/false_button"
+        android:layout_height="70dp"
+        android:layout_width="170dp"
+        android:textColor="@color/common_google_signin_btn_text_light_focused"
+        android:id="@+id/bt_hard"
+        android:layout_marginTop="49dp"
+        android:layout_below="@+id/bt_medium"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

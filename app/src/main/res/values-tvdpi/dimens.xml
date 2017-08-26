@@ -1,0 +1,12 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textSize">48dp</dimen>
+    <dimen name="textSizeAnswer">24sp</dimen>
+    <dimen name="textSizeAnswerTrue">24sp</dimen>
+    <dimen name="highScoreView">50dp</dimen>
+    <dimen name="score">28sp</dimen>
+    <dimen name="textsizeType3">60sp</dimen>
+    <dimen name="buttonHigh">90dp</dimen>
+</resources>
